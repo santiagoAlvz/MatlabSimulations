@@ -14,3 +14,7 @@ The "Add Globules" button will add, one by one, up to 5 globules to the simulati
 Each globule represents a blood cell which, may or may not, be infected with malaria. Malaria is a disease which can be identified by the difference on electric potencial that a infected cell exhibits, so this script simulates the "infectedness" of a cell by randomizing the distance between the two inner dots of every globule (where electric field is measured), and therefore, the electric potencial difference of said cell.
 
 The table displays the distance between a cell inner dots, its position, the difference in electrical field between said dots and if the cell is infected or not.
+
+---
+
+The spanish presentation of this simulation ca be seen [here](https://youtu.be/BkCnGjMwAPg).
