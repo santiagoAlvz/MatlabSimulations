@@ -10,3 +10,7 @@ Running this script will open a window, where four graphs are displayed:
 - Current induced on braking ring
 
 More information on Eddy Current Braking can be found on: [Eddy Current Brakes](https://www.explainthatstuff.com/eddy-current-brakes.html)
+
+---
+
+The spanish presentation of the simulation can be seen [here](https://youtu.be/_sXDL-WzblM).
